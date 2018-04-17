@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.example.gaope.slip.LayOne
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="70dp"
+    android:id="@+id/slip_one_layout">
+
+    <TextView
+        android:layout_width="385dp"
+        android:layout_height="match_parent"
+        android:background="#ffffff"
+        android:text="scrollTo"
+        android:gravity="center"/>
+    <TextView
+        android:layout_width="75dp"
+        android:layout_height="match_parent"
+        android:background="@color/colorPrimary"
+        android:text="置顶"
+        android:gravity="center"
+        android:textSize="20dp"/>
+    <TextView
+        android:layout_width="95dp"
+        android:layout_height="match_parent"
+        android:background="@color/colorPrimaryDark"
+        android:text="删除"
+        android:gravity="center"
+        android:textSize="20dp"/>
+</com.example.gaope.slip.LayOne>
