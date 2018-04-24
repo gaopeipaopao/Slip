@@ -10,4 +10,5 @@
 
     <include layout="@layout/slip_one" />
     <include layout="@layout/slip_two"/>
+    <include layout="@layout/slip_three"/>
 </LinearLayout>
